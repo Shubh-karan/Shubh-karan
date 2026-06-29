@@ -26,4 +26,4 @@
 
 ## Connect
 
-[Email](mailto:shubhkaran255@gmail.com) ↗ &nbsp;&nbsp;/&nbsp;&nbsp; [Instagram](https://www.instagram.com/karan.shubh_) ↗
+> **Drop a message:** [Email Me](mailto:shubhkaran255@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; **Follow my journey:** [Instagram](https://www.instagram.com/karan.shubh_)
