@@ -15,16 +15,10 @@
 
 ## Metrics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh-karan&locale=en&hide_title=true&layout=compact&card_width=380&langs_count=6&theme=transparent&text_color=888888&icon_color=ffffff&bg_color=0D1117&hide_border=true" alt="Languages" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shubh-karan&layout=compact&theme=dark&hide_border=true&card_width=350)
 
 <br/>
 
 ## Connect
 
 [Email](mailto:shubhkaran255@gmail.com) ↗ &nbsp;&nbsp;/&nbsp;&nbsp; [Instagram](https://www.instagram.com/karan.shubh_) ↗
-
-***
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
-</div>
