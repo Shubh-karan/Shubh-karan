@@ -15,7 +15,9 @@
 
 ## Metrics
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shubh-karan&layout=compact&theme=dark&hide_border=true&card_width=350)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-karan&layout=compact&theme=dark&hide_border=true&card_width=350&langs_count=5" alt="Top Languages" />
+</div>
 
 <br/>
 
