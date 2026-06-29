@@ -1,6 +1,7 @@
 # Shubh
 
-**Student @ BITS Pilani** Crafting software across full-stack web and data systems.
+**SAP DR Team @ HCLTech** &nbsp;&nbsp;|&nbsp;&nbsp; **Student @ BITS Pilani**  
+Crafting software across full-stack web and data systems.
 
 ---
 
