@@ -2,7 +2,7 @@
 
 **Student @ BITS Pilani** Crafting software across full-stack web and data systems.
 
-<br/>
+---
 
 ## Stack
 
@@ -11,15 +11,18 @@
 `MongoDB` `MySQL` `Redis` `SQLAlchemy`  
 `TensorFlow` `NumPy` `Pandas` `Git` `Linux`
 
-<br/>
+---
 
-## Metrics
+## Core Competencies
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-karan&layout=compact&theme=dark&hide_border=true&card_width=350&langs_count=5" alt="Top Languages" />
-</div>
+| Domain | Focus Areas | Primary Tools |
+| :--- | :--- | :--- |
+| **Backend Engineering** | REST APIs, Microservices, Auth | FastAPI, Django, Node.js |
+| **Data & Machine Learning** | Data Manipulation, ML Models | NumPy, Pandas, TensorFlow |
+| **Database Architecture** | Relational, NoSQL, Caching | MySQL, MongoDB, Redis |
+| **Frontend & Systems** | Client UI, OS, Version Control | React, Linux (Ubuntu), Git |
 
-<br/>
+---
 
 ## Connect
 
